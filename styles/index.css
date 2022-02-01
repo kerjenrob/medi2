@@ -1,0 +1,47 @@
+.logo {
+    font-family: 'Montserrat', sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 30px;
+    line-height: 48px;
+    /* or 160% */
+    letter-spacing: -0.02em;
+    color: #0A1B32;
+    margin-top: 37px;
+    margin-left: 80px;
+    }
+
+.logo-dot {
+    color: #A3DC00;
+}
+
+h1 {
+    max-width: 495px; /*same values but a diffrent look! Why? */
+    width: 100%;
+    font-family: 'Ramaraja', serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 72px;
+    line-height: 76px;
+    /* or 106% */
+    letter-spacing: 0.02em;
+    color: #1B0A42;
+    margin-top: 279px;
+    margin-left: 200px;
+}
+
+p {
+    width: 100%;
+    width: 583px;
+    margin-top: 12px;
+    margin-left: 200px;
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 32px;
+    /* or 160% */
+    letter-spacing: 0.02em;
+    color: #9A9A9A;
+    
+}
